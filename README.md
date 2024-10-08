@@ -4,14 +4,16 @@ This is a GZDoom CLI mod loader made entirely in Lua and a little bit of C for c
 ## Compiling on Mac and Linux
 I haven't included releases for these two because I don't have them to compile, if you can compile for me and send me, chat with me in my **Discord**: **aridcake** ; or **email** me at: **aridcake1y@yahoo.com**
 
+## If you have the knowledge and time:
+
 ### Windows
-MinGW (I haven't tested, but probably recommended):
+MinGW (Recommended):
 < gcc -o gzdoom_loader.exe gzdoom_loader.c >
 
-I used Visual Studio, more straight forward but uses more storage space.
+You can also use Visual Studio, although it requires more storage
 
 ### MacOS
-XCode or gcc
+XCode or gcc (can be either)
 < gcc -o gzdoom_loader gzdoom_loader.c >
 *Requires manual .app wrapping*
 
