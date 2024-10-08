@@ -2,11 +2,17 @@
 This is a GZDoom CLI mod loader made entirely in Lua and a little bit of C for compiling and cross-plataform
 
 ## What I plan on adding:
-*Gameplay statistics (Time, Kills, etc.)
-*Screenshots
-*Other Source ports support built-in
-*Freedoom Downloader built-in
-*.zip mod loading support
+
+1. Gameplay statistics (Time, Kills, etc.)
+
+2. Screenshots
+
+3. Other Source ports support built-in
+
+4. Freedoom Downloader built-in
+
+5. .zip mod loading support
+
 ** (SUGGEST MORE BY SENDING ME EMAIL) **
 
 
