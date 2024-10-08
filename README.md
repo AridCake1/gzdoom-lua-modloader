@@ -13,7 +13,7 @@ This is a GZDoom CLI mod loader made entirely in Lua and a little bit of C for c
 
 5. .zip mod loading support
 
-** (SUGGEST MORE BY SENDING ME EMAIL) **
+**(SUGGEST MORE BY SENDING ME EMAIL)**
 
 
 ## Compiling on Mac and Linux
