@@ -1,6 +1,13 @@
 # A GZDoom WAD Loader in CLI made in Lua
 This is a GZDoom CLI mod loader made entirely in Lua and a little bit of C for compiling and cross-plataform
 
+## What I plan on adding:
+*Gameplay statistics
+*Screenshots
+*Other Source ports support built-in
+** (SUGGEST MORE BY SENDING ME EMAIL) **
+
+
 ## Compiling on Mac and Linux
 I haven't included releases for these two because I don't have them to compile, if you can compile for me and send me, chat with me in my **Discord**: **aridcake** ; or **email** me at: **aridcake1y@yahoo.com**
 
